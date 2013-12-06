@@ -1,0 +1,41 @@
+Enterprise User's Meeting:
+
+Title: The Kernel Community - who they are and how it works
+
+Abstract:
+Linux is a widely know OS platform used by many enterprise systems such as the
+trading systems at Tokyo Stock Exchange.
+And it is also well known that Linux is developed by a group of software
+developers called "Community."
+
+However, it is not well know who are the "Community" and how it works, and this
+is the main topic of this session.
+Enterprise user companies may think that Linux is something they use passively
+as provided by the distributors. But there are opportunities for enterprise
+users to actively participate to the community to grow Linux for their own
+sake.
+
+
+Open Compliance Summit:
+
+Title: Understanding the Kernel Community - the fundamental of license
+compliance
+
+Abstract:
+"Open Source License Compliance" is essentially meaning that companies need to
+comply with the requested terms of the original authors of the software  (=
+Community developers) . 
+Thus it makes sense to have better understanding on what motivate open source
+developers to write codes and how those developers work together in the
+"Community." 
+
+In this talk, I will be talking about the Linux Kernel Community. 
+I will be answering a key questions such as who they are and why they come
+together to collaboratively write codes, and above all, how the Kernel
+Community works.
+
+I am also touch upon why it makes more sense for the companies to work with the
+Community.
+Closed (Forked) Kernel modules tend to be illegal, unworkable, and immoral.
+Working closely with the community should avoid these issues.
+
