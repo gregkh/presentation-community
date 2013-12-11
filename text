@@ -1,3 +1,65 @@
 kernel community - who they are and how it works
 
+Normal talk, see the slides, no big deal...
+
+
+----------------------
+
+
+Title: Understanding the Kernel Community - the fundamental of license
+compliance
+
+Abstract:
+"Open Source License Compliance" is essentially meaning that companies need to
+comply with the requested terms of the original authors of the software  (=
+Community developers) . 
+Thus it makes sense to have better understanding on what motivate open source
+developers to write codes and how those developers work together in the
+"Community." 
+
+In this talk, I will be talking about the Linux Kernel Community. 
+I will be answering a key questions such as who they are and why they come
+together to collaboratively write codes, and above all, how the Kernel
+Community works.
+
+I am also touch upon why it makes more sense for the companies to work with the
+Community.
+Closed (Forked) Kernel modules tend to be illegal, unworkable, and immoral.
+Working closely with the community should avoid these issues.
+
+My notes:
+
+Start with previous talk, 
+
+Add how to work with community slides (roadmap, quote from Intel/IBM)
+
+and then add:
+
+  - License of the kernel
+	- GPLv2 only
+	- copyright held by contributor
+	- some files dual licensed for inclusion in other OSes / projects
+		- ACPI - in other OSes
+		- Read-Copy-Update - copy in userspace under LGPLv2
+
+   - Closed source modules
+	- Unworkable
+		- Cost way too much money to even try to accomplish
+			- millions of dollars
+		- Constantly behind the curve
+		- Breaks your customer's support contracts, makes your
+		  customers mad
+		- You get no help from the community, makes the community mad
+		  as your bugs are referred to them.
+
+	- Immoral
+		- Why is your tiny bit of code somehow more important than the
+		  rest of the kernel which you depend on?
+		- No one is forcing you to use Linux, if you use Linux, abide
+		  by the license, it's only fair, do you break licenses of your
+		  business partners?
+		- Do you want to upset all of the contributors to the kernel
+		  who you probably copied the source from as to how to write
+		  your code?
+
 
